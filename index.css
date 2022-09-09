@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to right,yellow, green);
+    overflow: hidden;
+}
+.center{
+    margin: 20px auto;
+    display: block;
+}
+
+#dog-image {
+    max-width: 100%;
+    max-height: 100%;
+}
